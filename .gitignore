@@ -1,3 +1,13 @@
 초기세팅/backend/node_modules
 초기세팅/front/node_modules
 
+완성본/backend/node_modules
+완성본/front/node_modules
+
+.DS_Store
+초기세팅/.DS_Store
+초기세팅/backend/.DS_Store
+초기세팅/front/.DS_Store
+완성본/.DS_Store
+완성본/backend/.DS_Store
+완성본/front/.DS_Store
